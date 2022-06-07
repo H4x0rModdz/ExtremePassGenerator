@@ -16,7 +16,7 @@ namespace ExtremePassGenerator
 
             upper = lower = number = special = true;
 
-
+            Console.Clear();
             while (running)
             {
                 if (PasswordLenght <= 50)
@@ -28,7 +28,7 @@ namespace ExtremePassGenerator
                                                        special,
                                                        PasswordLenght));
 
-
+                    
                     Console.WriteLine("New password in 5sec");
                     Console.WriteLine();
                     Thread.Sleep(5000);
