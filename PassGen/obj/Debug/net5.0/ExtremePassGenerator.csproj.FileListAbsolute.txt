@@ -1,0 +1,16 @@
+C:\dev\PassGen\PassGen\bin\Debug\net5.0\ExtremePassGenerator.exe
+C:\dev\PassGen\PassGen\bin\Debug\net5.0\ExtremePassGenerator.deps.json
+C:\dev\PassGen\PassGen\bin\Debug\net5.0\ExtremePassGenerator.runtimeconfig.json
+C:\dev\PassGen\PassGen\bin\Debug\net5.0\ExtremePassGenerator.runtimeconfig.dev.json
+C:\dev\PassGen\PassGen\bin\Debug\net5.0\ExtremePassGenerator.dll
+C:\dev\PassGen\PassGen\bin\Debug\net5.0\ExtremePassGenerator.pdb
+C:\dev\PassGen\PassGen\obj\Debug\net5.0\ExtremePassGenerator.csproj.AssemblyReference.cache
+C:\dev\PassGen\PassGen\obj\Debug\net5.0\ExtremePassGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\PassGen\PassGen\obj\Debug\net5.0\ExtremePassGenerator.AssemblyInfoInputs.cache
+C:\dev\PassGen\PassGen\obj\Debug\net5.0\ExtremePassGenerator.AssemblyInfo.cs
+C:\dev\PassGen\PassGen\obj\Debug\net5.0\ExtremePassGenerator.csproj.CoreCompileInputs.cache
+C:\dev\PassGen\PassGen\obj\Debug\net5.0\ExtremePassGenerator.dll
+C:\dev\PassGen\PassGen\obj\Debug\net5.0\refint\ExtremePassGenerator.dll
+C:\dev\PassGen\PassGen\obj\Debug\net5.0\ExtremePassGenerator.pdb
+C:\dev\PassGen\PassGen\obj\Debug\net5.0\ExtremePassGenerator.genruntimeconfig.cache
+C:\dev\PassGen\PassGen\obj\Debug\net5.0\ref\ExtremePassGenerator.dll
