@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wvfpo6FKrREhJjTDXLwjfV/TpmpL5gaPtGk9Jp18VTFm2HTUA7qBzLz99mSlQTPQsJaD+dKEGv9ZGKCv9GDY9g==",
+  "dgSpecHash": "FAOzyYxP5qKidVe0PlQqI+tb9eU9oohZqfC/1+agS5w6yQxdQ+QytES+o1Kj7m4ADuJC9qf0yyV6h77VAwfPyA==",
   "success": true,
-  "projectFilePath": "C:\\dev\\PassGen\\PassGen\\ExtremePassGenerator.csproj",
+  "projectFilePath": "C:\\dev\\ExtremePassGenerator\\PassGen\\ExtremePassGenerator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],

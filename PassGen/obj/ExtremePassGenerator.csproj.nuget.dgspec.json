@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\PassGen\\PassGen\\ExtremePassGenerator.csproj": {}
+    "C:\\dev\\ExtremePassGenerator\\PassGen\\ExtremePassGenerator.csproj": {}
   },
   "projects": {
-    "C:\\dev\\PassGen\\PassGen\\ExtremePassGenerator.csproj": {
+    "C:\\dev\\ExtremePassGenerator\\PassGen\\ExtremePassGenerator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\PassGen\\PassGen\\ExtremePassGenerator.csproj",
+        "projectUniqueName": "C:\\dev\\ExtremePassGenerator\\PassGen\\ExtremePassGenerator.csproj",
         "projectName": "ExtremePassGenerator",
-        "projectPath": "C:\\dev\\PassGen\\PassGen\\ExtremePassGenerator.csproj",
+        "projectPath": "C:\\dev\\ExtremePassGenerator\\PassGen\\ExtremePassGenerator.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\PassGen\\PassGen\\obj\\",
+        "outputPath": "C:\\dev\\ExtremePassGenerator\\PassGen\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
